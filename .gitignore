@@ -1,0 +1,6 @@
+/.idea
+/ebin
+/logs
+*.beam
+/game.iml
+/rebar
