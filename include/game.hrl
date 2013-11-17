@@ -1,2 +1,2 @@
 
--record(unit, {id, hw, hh}).
+-record(unit, {id, x, y, hw, hh}).
